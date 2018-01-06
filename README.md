@@ -13,4 +13,4 @@ As on 2017, the 32 bit operating systems are obsolete and don't run the 32 bit E
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 - Amit Bhola
-  amit_aromatic@yahoo.com
+  amit_aromatic@yahoo.com 
